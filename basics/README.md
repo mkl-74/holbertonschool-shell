@@ -1,2 +1,2 @@
 # Holberton shell
-*Task 0
+*all exercices
