@@ -1,2 +1,2 @@
 #!/bin/bash
-mv file [:uppercase:] /tmp/u
+ls *[A-Z]* mv /tmp/u
