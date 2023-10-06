@@ -1,2 +1,3 @@
 #!/bin/bash
-ls *[A-Z]* mv /tmp/u
+mv [:upper:]* /tmp/u
+
