@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/u mv [:uppercase:]
+mv file [:uppercase:] /tmp/u
