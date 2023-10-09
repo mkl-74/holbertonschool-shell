@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -c /root/school /hello
+chgrp -c /root/school/ hello
