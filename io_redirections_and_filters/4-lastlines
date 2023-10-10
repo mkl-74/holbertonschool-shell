@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n --lines=+11 /etc/passwd
+tail -n --lines=+11 /etc/passwd 
