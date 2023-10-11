@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Replace all characters | tr 'A c' 'Z e' 
+tr 'A' 'c' | 'Z' 'e' 
