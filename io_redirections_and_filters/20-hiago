@@ -1,2 +1,2 @@
 #!/bin/bash
-printf hiago
+tr "c" "C" | -rm -r
