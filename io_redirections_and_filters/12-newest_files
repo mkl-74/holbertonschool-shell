@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -type f -t1 | head -10
+ls . -t1 | head -10
