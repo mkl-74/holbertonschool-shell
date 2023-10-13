@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "${!LOVE}"
+VAR2=$(echo $VAR1)
