@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv LOVE=$(echo $BREATH)
+echo $BREATH > $LOVE
