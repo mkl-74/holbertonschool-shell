@@ -1,2 +1,2 @@
 #!/bin/bash
-VAR2=$(echo $VAR1)
+LOVE=$(echo $BREATH)
